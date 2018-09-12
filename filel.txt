@@ -1,2 +1,4 @@
 ejemplo lineal se agraga texto rama3
 >>>>>>> rama3
+
+otro ejemplo
