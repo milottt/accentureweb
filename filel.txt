@@ -1,2 +1,2 @@
-ejemplo lineal adicion de texto
-lineas 2 desde la rama3
+ejemplo lineal se agraga texto rama3
+>>>>>>> rama3
