@@ -1,2 +1,2 @@
-ejemplo lineal 
+ejemplo lineal adicion de texto
 lineas 2 desde la rama3
